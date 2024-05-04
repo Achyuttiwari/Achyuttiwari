@@ -6,7 +6,7 @@
 - 📫 How to reach me
 - 📥 email me at tiwariachyut8808@gmail.com or achyuttiwari34@gmail.com
 
-Welcome to my github profile page.
+<!--Welcome to my github profile page.
 <!--
 **Achyuttiwari/Achyuttiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
