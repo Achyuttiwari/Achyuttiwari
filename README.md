@@ -1,5 +1,5 @@
-### Hi there 👋
-- 👋 Hi, I’m Achyut 
+### Hi Friends 👋
+- 👋 I’m Achyut 
 - 👀 I’m interested in building major projects
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on any project related to java.
