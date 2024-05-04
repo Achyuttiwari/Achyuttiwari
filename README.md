@@ -1,5 +1,10 @@
 ### Hi there 👋
-I'm Achyut Kumar Tiwari
+-👋 Hi, I’m Achyut
+-👀 I’m interested in building major projects
+-🌱 I’m currently learning lots of things.
+-💞️ I’m looking to collaborate on any project related to java.
+-📫 How to reach me
+-📥 email me at tiwariachyut8808@gmail.com or achyuttiwari34@gmail.com
 
 Welcome to my github profile page.
 <!--
